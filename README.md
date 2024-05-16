@@ -9,8 +9,7 @@
 
 ![Skills GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff), ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff), ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff), ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff), ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff)
+- **Languages**: ![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=fff), ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff), ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
 Thanks for visiting my profile! Have a great day! 😊
-![Goodbye GIF](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
