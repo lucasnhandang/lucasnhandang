@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas 👋
+<h1 align="center">Hi there, I'm Lucas 👋</h1>
 
 ![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
