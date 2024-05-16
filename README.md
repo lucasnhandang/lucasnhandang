@@ -1,14 +1,8 @@
-<h1 align="center">Hi there, I'm Lucas 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Welcome GIF">
-</p>
-
-<h2 align="center">About Me</h2>
-<p align="center">
+# Hi there, I'm Lucas~ 👋
+![Welcome GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+## About Me
   - 🔭 I’m currently studying Global ICT Program in SoICT-HUST.
   - 🌱 I’m currently learning about AI, ML, SE,...
-</p>
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
