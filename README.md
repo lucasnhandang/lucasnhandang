@@ -9,7 +9,6 @@
 ## 🚀 Current Focus
 - Deepening my knowledge in AI-related domains (DL, CV, NLP)
 - Working on practical projects that combine theory with real-world impact
-- Preparing for **graduate studies (Master’s degree)** and gaining industry experience
 
 ## 🔗 Connect With Me
 - Portfolio: https://lucasnhandang.github.io/
