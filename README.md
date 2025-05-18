@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Lucas!
 
 ## 👨‍💻 About Me
-- 🎓 **Undergraduate student** in the **Global ICT Program** at **School of ICT (SoICT) - Hanoi University of Science and Technology (HUST)**
-- 💡 Passionate about **AI**, especially in **Computer Vision**, **Natural Language Processing**, and **Machine Learning**
-- 🌍 Interested in ethical AI, responsible innovation, and applying technology to solve real-world problems
-- 🔨 Always building, learning, and contributing to open-source projects
+- **Undergraduate student** in the **Global ICT Program** at **School of ICT (SoICT) - Hanoi University of Science and Technology (HUST)**
+- Passionate about **AI**, especially in **Computer Vision**, **Natural Language Processing**, and **Machine Learning**
+- Interested in ethical AI, responsible innovation, and applying technology to solve real-world problems
+- Always building, learning, and contributing to open-source projects
 
 ## 🚀 Current Focus
 - Deepening my knowledge in AI-related domains (DL, CV, NLP)
